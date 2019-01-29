@@ -1,4 +1,4 @@
-package com.ealves.cursomc.resources;
+package com.ealves.cursomc.services.exection;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.ealves.cursomc.services;
+package com.ealves.cursomc.services.exections;
 
 public class ObjectNotFoundException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
